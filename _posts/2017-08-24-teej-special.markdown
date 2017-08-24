@@ -6,7 +6,7 @@ categories: photography
 ---
 
 # #OSLAN Forever PraneshxRoji
-![Img: PraneshxRoji Bro-o-mance](..\images\15874989_590681337804188_6482540350447399219_o.jpg)
+[![Img: PraneshxRoji Bro-o-mance](https://raw.githubusercontent.com/praneshdhunjushrestha/praneshdhunjushrestha.github.io/master/images/15874989_590681337804188_6482540350447399219_o.jpg "src. Anu Kadel")](https://www.facebook.com/photo.php?fbid=590681337804188&set=a.590683197804002.1073741829.100005869806013&type=3&permPage=1)
 
 ```
 teej ko rahar aayo barilai
