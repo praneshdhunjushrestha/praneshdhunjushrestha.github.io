@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Teej Special"
 date:   2017-08-24 12:44:00
 categories: photography
