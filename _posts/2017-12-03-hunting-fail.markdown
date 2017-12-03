@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "HuNteR kTo moH"
-date:   2017-08-24 18:24:00
+title:  "Hunting Failed: Busted!"
+date:   2017-12-03 18:24:00
 categories: photography
 ---
 
